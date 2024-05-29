@@ -13,11 +13,10 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "SOLID FEATURES",
-              subtitle: "Core Features of Solid",
-              description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In
-            convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam
-            ante in maximus.`,
+              title: "WHY CHOOSE US",
+              subtitle: "Perché OsteoZen è la scelta migliore",
+              description: `
+                OsteoZen è il nuovo servizio che mira a trovare il trattamento osteopatico o fisioterapico più adatto a te. Scopri il nostro approccio personalizzato e di eccellenza.`,
             }}
           />
           {/* <!-- Section Title End --> */}

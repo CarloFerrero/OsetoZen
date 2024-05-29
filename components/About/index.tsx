@@ -63,17 +63,16 @@ const About = () => {
                 <span className="mb-4 mr-4 inline-flex rounded-full bg-meta px-4.5 py-1 text-metatitle uppercase text-white ">
                   New
                 </span>{" "}
-                SaaS Boilerplate for Next.js
+                QUESTIONARIO
               </span>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                A Complete Solution for
+                Il Nostro Metodo di
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
-                  SaaS Startup
+                  Matching Personalizzato
                 </span>
               </h2>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                ultricies lacus non fermentum ultrices. Fusce consectetur le.
+                Attraverso un questionario dettagliato, cerchiamo di capire le tue necessità per abbinarti allo specialista più adatto. Questo sistema è progettato per garantirti un'esperienza personalizzata fin dal primo incontro.
               </p>
 
               <div className="mt-7.5 flex items-center gap-5">
@@ -84,7 +83,7 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                    Anamnesi
                   </h3>
                   <p>Ut ultricies lacus non fermentum ultrices.</p>
                 </div>
@@ -97,7 +96,7 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
+                    Matching professionista
                   </h3>
                   <p>consectetur adipiscing elit fermentum ultricies.</p>
                 </div>
@@ -134,10 +133,11 @@ const About = () => {
                 Launch Your SaaS Fast
               </h4>
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-                Packed with All Essential {"   "}
+                L'Approccio {"   "}
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  Integrations
+                  Innovativo
                 </span>
+                di OsteoZen
               </h2>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
